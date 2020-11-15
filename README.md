@@ -1,5 +1,5 @@
 ### Hi there, I'm Rony 👋
-![status](https://img.shields.io/badge/status-up-brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/rashad101) ![Python](https://img.shields.io/badge/Python-%E2%99%A5%EF%B8%8F-green)
+![status](https://img.shields.io/badge/status-up-brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/rashad101) ![Python](https://img.shields.io/badge/Python-%E2%99%A5%EF%B8%8F-green)![Profile Views](http://img.shields.io/badge/Profile%20Views-173-blue)
 ## I'm a researcher and PhD student, interested in Conversational AI  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
 - 🧑‍💻 I'm currently employed at Fraunhofer IAIS as a scintific staff in Dresden, Germany 🇩🇪.
 - 💡 I’m currently working on Knowledge Graph based dialogue systems.
