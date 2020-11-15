@@ -3,8 +3,15 @@
 <!--
 **rashad101/rashad101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Languages
 
+[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
+[![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
+![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
+
+Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
