@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**rashad101/rashad101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Languages
 
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/rashad101?tab=repositories&q=&type=&language=python)
@@ -20,4 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
