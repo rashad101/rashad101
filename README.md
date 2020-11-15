@@ -15,3 +15,4 @@
 ![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
 
+![Rony's Github stats](https://github-readme-stats.vercel.app/api?username=rashad101&show_icons=true)
