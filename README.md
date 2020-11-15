@@ -1,4 +1,4 @@
-### Hi there, I'm Rony 👋
+### Hi there 👋, I'm Rony <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 ## I'm a researcher and PhD student, interested in Conversational AI
 - 🔭 I'm currently employed at Fraunhofer IAIS as a scintific staff.
