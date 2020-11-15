@@ -1,9 +1,9 @@
 ### Hi there, I'm Rony 👋
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-Married-red) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/rashad101)
 ## I'm a researcher and PhD student, interested in Conversational AI  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
-- 🔭 I'm currently employed at Fraunhofer IAIS as a scintific staff in Dresden, Germany 🇩🇪.
+- 🧑‍💻 I'm currently employed at Fraunhofer IAIS as a scintific staff in Dresden, Germany 🇩🇪.
 - 🌱 I’m currently working on Knowledge Graph based dialogue systems.
-- 👯 I’m looking to collaborate on question answering and conversational AI research/projects.
+- 🤝 I’m looking to collaborate on question answering and conversational AI research/projects.
 - 💬 Ask me about anything related to deep learning, NLP, dialouge and QA systems.
 - ⚡ Fun fact: ...
 
