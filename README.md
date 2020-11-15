@@ -7,8 +7,12 @@
 - 💬 Ask me about anything related to deep learning, NLP, dialouge and QA systems (<a href="mailto:rah.rony@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="2.5%"/> </a>).
 - ⚡ Fun fact: ...
 ### 📫 Contact Me on Social Media 
-<p><a href="https://twitter.com/rashad_al_hasan" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/md-rashad" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@rah.rony" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p><a href="https://twitter.com/rashad_al_hasan" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/md-rashad" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@rah.rony" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+</a><a href="mailto:rah.rony?gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/twitter/url?color=%20&label=Gmail&logo=gmail&style=social&logoColor=white"/>
+</a>
 </p>
+
+![Twitter URL](https://img.shields.io/twitter/url?color=%20&label=Gmail&logo=gmail&style=social&url=https%3A%2F%2Fgmail.com)
 
 ### Languages
 
