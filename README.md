@@ -1,6 +1,6 @@
 ### Hi there, I'm Rony 👋
 
-## I'm a researcher and PhD student, interested in Conversational AI  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>
+## I'm a researcher and PhD student, interested in Conversational AI  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
 - 🔭 I'm currently employed at Fraunhofer IAIS as a scintific staff.
 - 🌱 I’m currently working on Knowledge Graph based dialogue systems.
 - 👯 I’m looking to collaborate on question answering and conversational AI systems.
