@@ -1,9 +1,10 @@
 ### Hi there, I'm Rony 👋
 
 ## I'm a researcher and PhD student, interested in Conversational AI
-- 🔭 I’m currently working on Knowledge Graph based dialogue systems.
+- 🔭 I'm currently employed at Fraunhofer IAIS as a scintific staff.
+- 🌱 I’m currently working on Knowledge Graph based dialogue systems.
 - 👯 I’m looking to collaborate on question answering and conversational AI systems.
-- 💬 Ask me about ...
+- 💬 Ask me about anything related to deep learning, NLP, dialouge and QA systems.
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
