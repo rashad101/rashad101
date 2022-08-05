@@ -1,7 +1,7 @@
 ### Hi there, I'm Rony 👋 🇧🇩 🇩🇪 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/rashad101) ![Python](https://img.shields.io/badge/Python-%E2%99%A5%EF%B8%8F-green)  <img src="https://komarev.com/ghpvc/?username=rashad101" alt="rashad101" /> 
 ## I'm a researcher and PhD student, interested in Conversational AI  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
-- 🧑‍💻 I'm currently employed at BMW Group as a Research - Conversational AI in Munich, Germany 🇩🇪
+- 🧑‍💻 I'm currently employed at BMW Group as a Researcher - Conversational AI in Munich, Germany 🇩🇪
 - 💡 I’m currently working on Knowledge Graph based dialogue systems and evaluation of generative systems.
 - 🤝 I’m looking to collaborate on question answering and conversational AI research/projects.
 - 💬 Ask me about anything related to deep learning, NLP, dialouge and QA systems.
