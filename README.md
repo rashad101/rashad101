@@ -1,11 +1,11 @@
 ### Hi there, I'm Rony 👋 🇧🇩 🇩🇪 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/rashad101) ![Python](https://img.shields.io/badge/Python-%E2%99%A5%EF%B8%8F-green)  <img src="https://komarev.com/ghpvc/?username=rashad101" alt="rashad101" /> 
 ## I'm a researcher and PhD student, interested in Conversational AI  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
-- 🧑‍💻 I'm currently employed at BMW Group as a Researcher - Conversational AI in Munich, Germany 🇩🇪
-- 💡 I’m currently working on Knowledge Graph based dialogue systems and evaluation of generative systems.
-- 🤝 I’m looking to collaborate on question answering and conversational AI research/projects.
-- 💬 Ask me about anything related to deep learning, NLP, dialouge and QA systems.
-- ⚡ Fun fact: I love collecting old coins and notes 💰
+- 🧑‍💻 Currently employed at BMW Group as a Researcher - Conversational AI in Munich, Germany 🇩🇪.
+- 💡 Working on Language Models, Knowledge Graph based dialogue systems and their evaluation.
+- 🤝 Loking for collaborate on question answering, conversational AI, and language model related research/project.
+- 💬 Interested to discuss about anything related to Language Models, Dialouge and QA systems, Deep Learning, and Natural Language Processing.
+- ⚡ Fun fact: I love travelling, and collecting old coins & notes 💰.
 ### 📫 Contact Me on Social Media 
 <p><a href="https://twitter.com/rashad_al_hasan" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/md-rashad" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@rah.rony" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a><a href="mailto:rah.rony@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
