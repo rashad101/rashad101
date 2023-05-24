@@ -1,6 +1,6 @@
 ### Hi there, I'm Rashad 👋 🇧🇩 🇩🇪 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/rashad101) ![Python](https://img.shields.io/badge/Python-%E2%99%A5%EF%B8%8F-green)  <img src="https://komarev.com/ghpvc/?username=rashad101" alt="rashad101" /> 
-## I'm a researcher interested in Conversational AI & NLP  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
+## I'm a Machine Learning Scientist interested in Conversational AI & NLP  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
 - 🧑‍💻 Currently employed at BMW Group as AI Expert - NLP & Conversational AI in Munich, Germany 🇩🇪.
 - 💡 Working on Language Models, Knowledge Graph based dialogue systems and their evaluation.
 - 🤝 Loking for collaborate on question answering, conversational AI, and language model related research/project.
