@@ -2,7 +2,7 @@
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/rashad101) ![Python](https://img.shields.io/badge/Python-%E2%99%A5%EF%B8%8F-green)  <img src="https://komarev.com/ghpvc/?username=rashad101" alt="rashad101" /> 
 ## I'm a Senior Generative AI Scientist interested in Conversational AI & NLP  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
 - 🧑‍💻 Employed at Deutsche Telekom as Senior Generative AI Architect in Berlin, Germany 🇩🇪.
-- 💡 Working on Large Language Model (LLM) development/fine-tuning, Knowledge Graph based dialogue systems and their evaluation.
+- 💡 Working on Large Language Model (LLM) development/fine-tuning, Agentic AI and their evaluation.
 - 🎯 Currently diving deep into Reinforcement Learning (RL).
 - 🤝 Interested in LLMs, Conversational AI, Reinforcement Learning and Knowledge Graphs.
 - ⚡ Fun facts: I love collecting old coins & notes 💰.
