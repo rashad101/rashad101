@@ -3,7 +3,7 @@
 ## I'm a Senior Generative AI Scientist interested in Conversational AI & NLP  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
 - 🧑‍💻 Employed at Deutsche Telekom as Senior Generative AI Scientist in Berlin, Germany 🇩🇪.
 - 💡 Working on Large Language Model (LLM) development/fine-tuning, Agentic AI and their evaluation.
-- 🎯 Currently diving deep into Reinforcement Learning (RL).
+- 🎯 Currently diving deep into Reinforcement Learning (RL) and GPU Kernel developpment.
 - 🤝 Interested in LLMs, Conversational AI, Reinforcement Learning and Knowledge Graphs.
 - ⚡ Fun facts: I love collecting old coins & notes 💰.
 ### 📫 Contact Me on Social Media 
